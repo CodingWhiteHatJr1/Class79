@@ -1,0 +1,18 @@
+#submit_button{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#sort_button{
+    display:none;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+input{
+    margin:10px;
+}
+body{
+    background-color:burlywood;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
